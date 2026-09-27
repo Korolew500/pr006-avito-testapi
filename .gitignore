@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.env
+allure-results/
+test-results.xml
+pytest-exit-code.txt
